@@ -22,6 +22,7 @@ Backend Technologies:
 - Node.JS
 - Express.JS
 - MongoDB
+- Stripe Payment Gateway
 ```
 
 ```
